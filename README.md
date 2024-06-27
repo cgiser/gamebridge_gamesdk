@@ -11,7 +11,7 @@
 ```
 <script 
     id="gamebridge-sdk"
-    src="https://sdk.enjoy4fun.com/v1/gamebridge.js" 
+    src="https://sdk.beesads.com/v1/gamebridge.js" 
     data-ad-frequency="30s" 
     data-gameid="gameid">
 </script>
